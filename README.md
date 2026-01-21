@@ -1,6 +1,6 @@
 # 📝 Gerenciador de Tarefas (Python)
 
-Projeto simples de **gerenciador de tarefas em terminal**, desenvolvido em Python, com foco em praticar lógica de programação, organização de código e boas práticas iniciais.
+Projeto de **gerenciador de tarefas em terminal**, desenvolvido em Python, com foco em praticar lógica de programação, organização de código e boas práticas iniciais.
 
 ---
 
@@ -8,17 +8,19 @@ Projeto simples de **gerenciador de tarefas em terminal**, desenvolvido em Pytho
 
 - ✅ Adicionar tarefas
 - 📋 Listar tarefas numeradas
+- ✔️ Concluir tarefas
+- 🗑️ Remover tarefas
+- ⚠️ Tratamento de erros com `try/except`
 - 🔄 Navegação por menu interativo no terminal
 - 🧹 Limpeza de tela para melhor experiência do usuário
 
 ---
 
-## 📌 Funcionalidades em desenvolvimento
+## 📌 Funcionalidades futuras
 
-- ⏳ Concluir tarefas
-- 🗑️ Remover tarefas
-- ⚠️ Tratamento de erros com `try/except`
 - 💾 Persistência de dados (salvar tarefas em arquivo)
+- ♻️ Refatoração e melhorias de estrutura
+- 📦 Organização do código em módulos
 
 ---
 
@@ -26,7 +28,7 @@ Projeto simples de **gerenciador de tarefas em terminal**, desenvolvido em Pytho
 
 - **Python 3**
 - Biblioteca padrão (`os`)
-- Execução via terminal
+- Execução via terminal (CLI)
 
 ---
 
@@ -53,16 +55,10 @@ python main.py
 
 - Este projeto tem como objetivo:
 - Praticar lógica de programação
-- Trabalhar com listas e funções
+- Trabalhar com listas, funções e controle de fluxo
+- Aplicar tratamento de erros
 - Simular um sistema simples em terminal
 - Evoluir gradualmente aplicando boas práticas
-
-## 📈 Próximos passos
-
-- Refatoração do código
-- Implementação das funcionalidades pendentes
-- Melhorias na estrutura
-- Evoluir o projeto para algo mais completo
 
 ## 👨‍💻 Autor
 Arthur Lanzoni
